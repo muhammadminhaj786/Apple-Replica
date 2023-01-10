@@ -1,0 +1,191 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.nav-bar{
+    background-color: black;
+    color: #fff;
+    justify-content: center;
+}
+.nav-bar ul{
+    list-style: none;
+    display: flex;
+    padding-top: 10px;
+    justify-content: center;
+}
+.nav-bar ul li{
+    margin: 0px 30px;
+}
+.b1{
+    height: 600px;
+    width: 100%;
+    background-image: url(./images/hero_iphone14pro__e5xbgo5ffhg2_medium.jpg);
+    background-position: center;
+}
+.txt {
+    color: #fff;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 60px;
+}
+.txt2{
+    color: #fff;
+    text-align: center;
+    font-size: 20px;
+}
+.txt3{
+    color: #2997ff;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 20px;
+}
+.b2{
+    background-image: url(./images/hero_iphone14__fjmsqstr1ceq_medium.jpg);
+    height: 600px;
+    width: 100%;
+    background-position: center;
+}
+.txt4{
+    color: black;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 60px;
+}
+.txt5{
+    text-align: center;
+    font-size: 30px;
+}
+.b3{
+    background-image: url(./images/hero_apple_watch_series_8__bjc1ok5mkjua_medium.jpg);
+    height: 600px;
+    width: 100%;
+    background-position: center;
+}
+.txt6{
+    text-align: center;
+    color: #fff;
+    padding-top: 55px;
+    font-size: 40px;
+}
+.txt7{
+    color: red;
+    text-align: center;
+    font-size: 20px;
+}
+.txt8{
+    color: #fff;
+    font-size: 30px;
+    text-align: center;
+}
+.b6{
+    height: 480px;
+    width: 100%;
+    display: flex;
+}
+.img3{
+    background-image: url(./images/promo_airpods_pro_avail__gaxggskofx6y_medium.jpg);
+    height: 480px;
+    width: 50%;
+    background-position: center;
+}
+.img4{
+    background-image: url(./images/tile__cauwwcyyn9hy_medium.jpg);
+    background-position: center;
+    height: 480px;
+    width: 50%;
+}
+.footer{
+    background-color: #f5f5f7;
+    height: 950px;
+    padding-left: 140px;
+    padding-top: 20px;
+    padding-right: 60px;
+    color: #6e6e73;
+}
+.b5{
+    display: flex;
+    height: 480px;
+    width: 100%;
+}
+.img1{
+    background-image: url(./images/promo_apple_watch_ultra__gnsqulvdc4a6_large.jpg);
+    height: 480px;
+    width: 50%;
+    background-position: center;
+}
+.img2{
+    background-image: url(./images/promo__sw58lbodkmqq_large.jpg);
+    height: 480px;
+    width: 50%;
+    background-position: center;
+}
+.txt9{
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 40px;
+}
+.txt10{
+    color: black;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 30px;
+}
+.txt11{
+    color: #fff;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 30px;
+}
+.txt12{
+    color: black;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 20px;
+}
+.txt13{
+    color: black;
+    text-align: center;
+    padding-top: 20px;
+}
+.txt14{
+    color: #fff;
+    padding-top: 30px;
+    text-align: center;
+    font-size: 30px;
+}
+.list{
+    display: flex; 
+    list-style: none;
+}
+.list ul li{
+    list-style:  none;
+    padding-top: 10px;
+    
+    
+}
+.l1{
+    padding-left: 60px;
+    padding-top: 30px;
+}
+.l2{
+    padding-left: 100px;
+    padding-top: 30px;
+}
+.heading{
+    color: #1d1d1d;
+}
+.l3{
+    padding-left: 100px;
+    padding-top: 30px;
+}
+.l4{
+    padding-left: 100px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.l5{
+    padding-left: 60px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
